@@ -1,0 +1,19 @@
+{
+  "name": "time-anything",
+  "version": "1.0.0",
+  "description": "This time in millerseconds and nanoseconds which ever is need to check your timings. The aim was to create a simple timer that does nothing but stop start and records the 2 two times. Then you pick which one you need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "timming",
+    "time"
+  ],
+  "author": "Andrew Ellis-Chadwick",
+  "license": "ISC"
+}
