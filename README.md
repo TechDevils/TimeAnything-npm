@@ -12,7 +12,7 @@ npm install time-anything
 ## Example
 
 ```js
-var timing = require("./TimingCode");
+var timing = require("time-anything");
 
 timing.start();
 
